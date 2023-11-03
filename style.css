@@ -14,6 +14,9 @@
 .fa-solid {
   color: var(--main-color);
 }
+.icon-blue{
+  color: #0065FC
+}
 body {
   font-family: "Raleway", sans-serif;
 }
